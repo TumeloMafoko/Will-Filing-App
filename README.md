@@ -1,2 +1,2 @@
 # Will-Filing-App
-An app where one can update their Will &amp; last testament from the comfort of their own space and time. This app will simplify the process of signing a Will and will educate people who know very little about Wills &amp; last testaments.  
+An app where one can update their Will &amp; last testament from the comfort of their own space and time. This app will simplify the process of signing a Will and will educate people who know very little about Wills &amp; last testaments. In countries where the idea of sighing Wills is not well renowned, the event of family disputes over the dead's belongings is a norm. implementing this app will allow a swift redirection of culture and instill a process whereby all actions are governed and binded by the law. 
